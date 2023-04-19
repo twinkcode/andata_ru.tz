@@ -1,0 +1,19 @@
+/*@import "reset.css";*/
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 100px;
+    background: #e9f4ff;
+    margin-bottom: 2em;
+}
+footer{
+    background: #147759;
+}
+.footer{
+    height: 100px;
+}
+.footer a{
+    color: white;
+}
